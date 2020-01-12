@@ -1,0 +1,25 @@
+{
+  "files":
+  [
+    {
+        "first_name": "Mary",
+        "last_name": "Jane",
+        "day_of_visit": "6",
+        "month_of_visit": "1",
+        "year_of_visit": "2020",
+        "visit_with_whom": "Dr. John Doe",
+        "location_of_visit": "123 Sesame Street, London, Ontario",
+        "tests": ["bloodPressure = 125/75 mmHg","restingHeartRate = 80 bpm","height = 164 cm","weight = 110 kg"]
+    },
+    {
+        "first_name": "Mary",
+        "last_name": "Jane",
+        "day_of_visit": "11",
+        "month_of_visit": "1",
+        "year_of_visit": "2020",
+        "visit_with_whom": "Dr. John Doe",
+        "location_of_visit": "123 Sesame Street, London, Ontario",
+        "tests": ["bloodPressure = 120/80 mmHg","restingHeartRate = 110 bpm"]
+    }
+  ]
+}
