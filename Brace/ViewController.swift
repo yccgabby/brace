@@ -21,7 +21,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     override func viewDidLoad() {
         super.viewDidLoad()
         setupTableView()
-        //perform(#selector(callTwilio), with: nil, afterDelay: 1)
+        perform(#selector(callTwilio), with: nil, afterDelay: 1)
     }
 
     @objc func callTwilio () {
