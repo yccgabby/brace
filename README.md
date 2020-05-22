@@ -3,6 +3,8 @@ An iOS app written in Swift in the Xcode environment designed for medical profes
 
 *won best health hack at SheHacks 2020!!*
 
+Group members: Gabby Chan, Kaitlyn Paglia, Theresa Nguyen, Ayla Orucevic
+
 ## Notice 
 
 Requires the Alamofire library as a package dependency: https://github.com/Alamofire/Alamofire 
